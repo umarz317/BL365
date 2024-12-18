@@ -356,7 +356,7 @@ const Presale = () => {
           </div>
 
           <button
-            // onClick={buy}
+            onClick={buy}
             disabled
             className="flex items-center justify-center font-ox bg-yellow-500 p-2 absolute bottom-10 m-auto left-0 right-0 w-20 rounded-xl shadow-yellow-600 shadow-[0_0_20px_1px_rgba(0,0,0,0.25)]"
           >
